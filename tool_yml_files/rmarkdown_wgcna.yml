@@ -7,4 +7,4 @@ tools:
   tool_shed_url: https://toolshed.g2.bx.psu.edu/
   install_resolver_dependencies: True
   revisions:
-    - "240af4b07b92"
+    - "a41eb67bce4c"
